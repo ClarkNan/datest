@@ -24,7 +24,7 @@ body {
 
 /* line 25, ../sass/style.sass */
 .fonth1 {
-  color: none;
+  color: rgba(0,0,0,0.3);
   text-shadow: 0px 0px 10px skyblue, 1.5px 1.5px 10px skyblue, -1.5px -1.5px 10px skyblue, 1.5px -1.5px 10px skyblue, -2px 2px 10px skyblue;
   font-weight: 200;
   font-size: 60px;
@@ -32,7 +32,7 @@ body {
 
 /* line 33, ../sass/style.sass */
 .fontp {
-  color: black;
+  color: rgba(0,0,0,0.3);
   text-shadow: 0px 0px 10px skyblue, 1.5px 1.5px 10px skyblue, -1.5px -1.5px 10px skyblue, 1.5px -1.5px 10px skyblue, -2px 2px 10px skyblue;
   font-size: 30px;
 }
