@@ -12,14 +12,14 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center bottom;
-  height: 700px;
+  height: 650px;
 }
 
 /* line 17, ../sass/style.sass */
 .all {
   text-align: center;
   margin: 60px;
-  padding: 200px 60px 60px 60px;
+  padding: 180px 60px 60px 60px;
 }
 
 /* line 25, ../sass/style.sass */
