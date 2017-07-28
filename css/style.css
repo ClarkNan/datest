@@ -19,7 +19,7 @@ body {
 .all {
   text-align: center;
   margin: 70px;
-  padding: 60px;
+  padding: 100px 40px 0px 40px;
 }
 
 /* line 25, ../sass/style.sass */
